@@ -1,0 +1,31 @@
+{
+  "source": "Google Places API (live fetch via places search tool, Oct 21 2026). Review text is as returned by the API, which truncates long reviews.",
+  "businesses": [
+    {
+      "business_name": "Joe's Pizza",
+      "address": "7 Carmine St, New York, NY 10014, USA",
+      "rating": 4.4,
+      "rating_count": 10728,
+      "reviews": [
+        "Joe’s Pizza is a classic New York experience that everyone should try once. We went for a whole pie. The line was not too long for whole pies but longer for single slice. Ordering took around 15-20 minutes, and after ordering we waited almost 45 more minutes to get our pizza. It looked like they were handling a lot of orders that day, especially delivery orders. We tried the regular pizza with veggie and mushroom toppings. The pizza was fresh, with a nice thin crust and good tomato sauce.",
+        "Every New Yorker has a pizza opinion, and today I went straight to one of the legends. Joe's Pizza in Greenwich Village has been serving up authentic NYC slices since 1975, and after one bite of their original plain slice, I understood why tourists and locals keep lining up. The plain slice was everything a New York slice should be: simple, crispy, cheesy, and absolutely perfect. Then my sons convinced me to step outside my comfort zone and order a mushroom and sausage slice.",
+        "Tried Joe’s Pizza in the West Village for the second time and honestly, really solid New York style pizza. It’s that classic NYC slice: thin crust, slightly crispy on the bottom, soft enough to fold, simple tomato sauce and melted cheese. Nothing fancy, just done right. There are definitely better pizzas out there if you start comparing top spots, but for around $30 for a large pie, it’s a very good deal, especially in Manhattan.",
+        "This gets a special, warm review from me. I grew up watching Spiderman 2 very frequently as a kid, so getting the opportunity to try the pizza that Peter would deliver was something that I never thought would happen. The service was fast, understandable, and it's iconic that the place only accepts cash. The prices for the pizza are a bit high, but the size of the pizza is ENORMOUS, so you get a lot of value. Having tables set up outside is fun.",
+        "I got the cheese slice and Sicilian. The crust was so crispy and perfect but there was no cheese pull. Both were good and it’s a solid place for pizza but I wouldn’t wait over 15 minutes for it though. Luckily there was no line when I went on a Friday around 1:30pm. This location is cash only! There’s an ATM inside. The cheese slice was $4.50 and the Sicilian was $5.50."
+      ]
+    },
+    {
+      "business_name": "Mary Mac's Tea Room",
+      "address": "224 Ponce De Leon Ave NE, Atlanta, GA 30308, USA",
+      "rating": 4.4,
+      "rating_count": 15149,
+      "reviews": [
+        "Food is exceptional! Best fried chicken and mac and cheese ive had in a while! Whipped potatoes, collard greens and shrimp and grits couldve used a little more seasoning for my taste. First time having tomato pie and it was great! Bread pudding was good. Maybe a little too sweet. They give you complementary bread/cornbread for the table. And there is complementary sweet tea in the waiting foyer (which was also excellent). Peach martini, three stars.",
+        "Mary Mac’s Tea Room feels like stepping into a piece of Atlanta history. The restaurant has that rare old-school Southern atmosphere that immediately feels authentic rather than manufactured for tourists. From the classic decor to the busy dining rooms and long-standing reputation, you can understand very quickly why this place has become such an institution over the years. There was a big queue when I arrived, which usually says a lot, and thankfully it lived up to the reputation.",
+        "Heard so much about this place so it was a must stop on this visit. The food was very tasty. We ordered fried shrimp for appetizer (came out nice and hot); had chicken tenders with fries and fruit (very filling); also had the beef stew with fried okra and mashed potatoes (large serving that was spread over 2 meals). The potlicker and cornbread was an interesting starter (appreciated the server inquiring about pork and making sure to bring me the option without pork).",
+        "If you are visiting Atlanta and are looking for some delicious down home southern cuisine with friendly and attentive wait staff, this is the place for you!! We were visiting here to spend time with family and friends and this was the recommended spot! I am so glad we came here! The food was so delicious and the portions were just right. Our waiter Danny was very attentive and friendly. He answered all our questions and clarified any misconceptions.",
+        "Absolutely delicious! I had the chicken-fried chicken with white pepper gravy, mac and cheese, and collard greens, and I ate every single bite. Everything was comforting, flavorful, and authentically Southern. Quan was my server, and he was incredibly kind and attentive, he even brought me some of the flavorful broth from the vegetables to enjoy with my cornbread, which was such a thoughtful and delicious recommendation. Wonderful food, service, and atmosphere."
+      ]
+    }
+  ]
+}

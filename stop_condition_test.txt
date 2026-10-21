@@ -1,0 +1,34 @@
+======================================================================
+EXECUTION TRACE
+======================================================================
+[REASONING] Goal: analyze recent customer sentiment for 'Totally Fake Diner'. I need review data before I can say anything useful, so my first step is to call the fetch_business_reviews tool.
+----------------------------------------------------------------------
+[TOOL CALL #1] fetch_business_reviews(business_name='Totally Fake Diner')
+----------------------------------------------------------------------
+[OBSERVATION] Tool returned 0 review(s) (source: unknown).
+----------------------------------------------------------------------
+[REASONING] Only 0 review(s) found, below the 3-review minimum. Will retry fetch (iteration 1 of 3).
+----------------------------------------------------------------------
+[TOOL CALL #2] fetch_business_reviews(business_name='Totally Fake Diner')
+----------------------------------------------------------------------
+[OBSERVATION] Tool returned 0 review(s) (source: unknown).
+----------------------------------------------------------------------
+[REASONING] Only 0 review(s) found, below the 3-review minimum. Will retry fetch (iteration 2 of 3).
+----------------------------------------------------------------------
+[TOOL CALL #3] fetch_business_reviews(business_name='Totally Fake Diner')
+----------------------------------------------------------------------
+[OBSERVATION] Tool returned 0 review(s) (source: unknown).
+----------------------------------------------------------------------
+[REASONING] Only 0 review(s) found, below the 3-review minimum. Will retry fetch (iteration 3 of 3).
+----------------------------------------------------------------------
+[STOP CONDITION] Hit max iterations (3) without enough data. Halting and reporting insufficient data rather than guessing.
+----------------------------------------------------------------------
+
+======================================================================
+FINAL STRUCTURED OUTPUT
+======================================================================
+{
+  "business_name": "Totally Fake Diner",
+  "status": "insufficient_data",
+  "answer": "Not enough review data was available for 'Totally Fake Diner' to produce a reliable summary (found 0, need 3+)."
+}
